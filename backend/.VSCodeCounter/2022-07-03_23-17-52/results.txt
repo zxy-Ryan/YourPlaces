@@ -1,0 +1,44 @@
+Date : 2022-07-03 23:17:52
+Directory : d:\zxy\project\mern-stack-project\backend
+Total : 14 files,  4994 codes, 8 comments, 116 blanks, all 5118 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |      4,481 |          0 |          2 |      4,483 |
+| JavaScript |         11 |        513 |          8 |        114 |        635 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         14 |      4,994 |          8 |        116 |      5,118 |
+| controllers                                                                 |          2 |        323 |          1 |         62 |        386 |
+| middleware                                                                  |          2 |         44 |          0 |          6 |         50 |
+| models                                                                      |          3 |         33 |          0 |          8 |         41 |
+| routes                                                                      |          2 |         44 |          2 |         17 |         63 |
+| util                                                                        |          1 |         21 |          4 |          8 |         33 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                    | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\zxy\project\mern-stack-project\backend\app.js                            | JavaScript |         48 |          1 |         13 |         62 |
+| d:\zxy\project\mern-stack-project\backend\controllers\places-controllers.js | JavaScript |        186 |          1 |         38 |        225 |
+| d:\zxy\project\mern-stack-project\backend\controllers\users-controllers.js  | JavaScript |        137 |          0 |         24 |        161 |
+| d:\zxy\project\mern-stack-project\backend\middleware\check-auth.js          | JavaScript |         19 |          0 |          3 |         22 |
+| d:\zxy\project\mern-stack-project\backend\middleware\file-upload.js         | JavaScript |         25 |          0 |          3 |         28 |
+| d:\zxy\project\mern-stack-project\backend\models\http-error.js              | JavaScript |          7 |          0 |          1 |          8 |
+| d:\zxy\project\mern-stack-project\backend\models\place.js                   | JavaScript |         14 |          0 |          3 |         17 |
+| d:\zxy\project\mern-stack-project\backend\models\user.js                    | JavaScript |         12 |          0 |          4 |         16 |
+| d:\zxy\project\mern-stack-project\backend\nodemon.json                      | JSON       |          9 |          0 |          0 |          9 |
+| d:\zxy\project\mern-stack-project\backend\package-lock.json                 | JSON       |      4,444 |          0 |          1 |      4,445 |
+| d:\zxy\project\mern-stack-project\backend\package.json                      | JSON       |         28 |          0 |          1 |         29 |
+| d:\zxy\project\mern-stack-project\backend\routes\places-routes.js           | JavaScript |         26 |          1 |         10 |         37 |
+| d:\zxy\project\mern-stack-project\backend\routes\users-routes.js            | JavaScript |         18 |          1 |          7 |         26 |
+| d:\zxy\project\mern-stack-project\backend\util\location.js                  | JavaScript |         21 |          4 |          8 |         33 |
+| Total                                                                       |            |      4,994 |          8 |        116 |      5,118 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+

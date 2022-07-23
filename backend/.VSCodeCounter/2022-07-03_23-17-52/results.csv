@@ -1,0 +1,16 @@
+"filename", "language", "JavaScript", "JSON", "comment", "blank", "total"
+"d:\zxy\project\mern-stack-project\backend\app.js", "JavaScript", 48, 0, 1, 13, 62
+"d:\zxy\project\mern-stack-project\backend\controllers\places-controllers.js", "JavaScript", 186, 0, 1, 38, 225
+"d:\zxy\project\mern-stack-project\backend\controllers\users-controllers.js", "JavaScript", 137, 0, 0, 24, 161
+"d:\zxy\project\mern-stack-project\backend\middleware\check-auth.js", "JavaScript", 19, 0, 0, 3, 22
+"d:\zxy\project\mern-stack-project\backend\middleware\file-upload.js", "JavaScript", 25, 0, 0, 3, 28
+"d:\zxy\project\mern-stack-project\backend\models\http-error.js", "JavaScript", 7, 0, 0, 1, 8
+"d:\zxy\project\mern-stack-project\backend\models\place.js", "JavaScript", 14, 0, 0, 3, 17
+"d:\zxy\project\mern-stack-project\backend\models\user.js", "JavaScript", 12, 0, 0, 4, 16
+"d:\zxy\project\mern-stack-project\backend\nodemon.json", "JSON", 0, 9, 0, 0, 9
+"d:\zxy\project\mern-stack-project\backend\package-lock.json", "JSON", 0, 4444, 0, 1, 4445
+"d:\zxy\project\mern-stack-project\backend\package.json", "JSON", 0, 28, 0, 1, 29
+"d:\zxy\project\mern-stack-project\backend\routes\places-routes.js", "JavaScript", 26, 0, 1, 10, 37
+"d:\zxy\project\mern-stack-project\backend\routes\users-routes.js", "JavaScript", 18, 0, 1, 7, 26
+"d:\zxy\project\mern-stack-project\backend\util\location.js", "JavaScript", 21, 0, 4, 8, 33
+"Total", "-", 513, 4481, 8, 116, 5118
